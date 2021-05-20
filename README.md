@@ -11,6 +11,9 @@ To regenerate your results you should have do follow our guideline:
 3. Augment the dataset based on previous results.
 
 
-### unbiased Scene graph generation
+### Unbiased Scene Graph Generation
 
 We have used this [repository](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch) to generate scene graphs, please follow their instructions to install the scene graph benchmark.
+
+After installing USGG based on their manual you can run it for any dataset you want. There is an example of how to run it for the COOC downsample in this repo, you can use it to run the USGG.
+
